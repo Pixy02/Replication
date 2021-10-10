@@ -1,0 +1,13 @@
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\bin\Debug\netcoreapp3.1\Player Data.exe
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\bin\Debug\netcoreapp3.1\Player Data.deps.json
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\bin\Debug\netcoreapp3.1\Player Data.runtimeconfig.json
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\bin\Debug\netcoreapp3.1\Player Data.runtimeconfig.dev.json
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\bin\Debug\netcoreapp3.1\Player Data.dll
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\bin\Debug\netcoreapp3.1\Player Data.pdb
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.csproj.AssemblyReference.cache
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.AssemblyInfoInputs.cache
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.AssemblyInfo.cs
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.csproj.CoreCompileInputs.cache
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.dll
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.pdb
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week lupa\ReplicatingObject\Player Data\obj\Debug\netcoreapp3.1\Player Data.genruntimeconfig.cache
